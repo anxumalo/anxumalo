@@ -1,13 +1,16 @@
 ### Hi there :wave:
 
-- 🔭 I’m currently working on docs for Alfresco products
+- 🔭 I’m currently working on docs for Alfresco products.
 - 👯 I’m looking to collaborate on writing better docs.
+- 🌱 I’d like to learn more about GitHub Actions.
 - 💬 Ask me about technical writing, athletics, and cruises.
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: Have visited 11 countries so far and counting...
+- ⚡ Fun fact: Have visited 25 countries so far and counting...
 
 <details>
   <summary>📈 My GitHub Stats</summary>
+  <br/>
+  <!--<i>Spending more time doing reviews than pull requests & commits, so not writing as much as I used to!</i> 🤔-->
   <br/>
   <div>
      <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anxumalo&count_private=true&show_icons=true&include_all_commits=true&hide=stars,issues&theme=highcontrast" alt="Adelaide's GitHub Stats" />
@@ -34,4 +37,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anxumalo&count_private=true&show_icons=true&layout=default&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxumalo&layout=default&theme=swift)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxumalo&layout=default&theme=swift)](https://github.com/anuraghazra/github-readme-stats)-->
