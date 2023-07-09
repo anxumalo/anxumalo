@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on docs for Alfresco products.
 - 👯 I’m looking to collaborate on writing better docs.
-- 🌱 I’d like to learn more about GitHub Actions.
+- 🌱 I’m learning more about GitHub Actions.
 - 💬 Ask me about technical writing, athletics, and cruises.
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: Have visited 25 countries so far and counting...
