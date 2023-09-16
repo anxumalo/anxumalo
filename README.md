@@ -9,20 +9,27 @@
 
 <details>
   <summary>📈 My GitHub Stats</summary>
-  <br/>
-  I'm still thinking about my preferred stats layout!
-  <br/>
-  <!--<i>Spending more time doing reviews than pull requests & commits, so not writing as much as I used to!</i> 🤔-->
-  <br/>
+
+  <br />*Still playing around with the stats layouts*
+
+  <!-- Using HTML to resize images -->
   <div>
-    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxumalo&hide=stars,issues&theme=highcontrast" alt="Adelaide's GitHub Profile Summary Card" /> 
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=anxumalo&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Adelaide's GitHub Stats" />
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxumalo&hide=stars,issues&theme=highcontrast" alt="Adelaide's GitHub Profile Summary Card" /> 
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=anxumalo&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Adelaide's GitHub Stats" />
      <br/>
-     <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=anxumalo&theme=highcontrast" alt="Adelaide's GitHub Streak" />
+     <!--
+      <a href="https://git.io/streak-stats"><img height="200" align="center" src="https://streak-stats.demolab.com?user=anxumalo&theme=highcontrast" alt="Adelaide's GitHub Streak" />
+      -->
      <br/>
-     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxumalo&theme=highcontrast" alt="Adelaide's GitHub Profile Details" />
   </div>
+  
+  <!--FIXME: GitHub Streak image not working
+  [![Adelaide's GitHub Streak](https://streak-stats.demolab.com?user=anxumalo&theme=highcontrast)](https://git.io/streak-stats) 
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anxumalo&theme=swift)](https://git.io/streak-stats)-->
+       
 </details>
+
+![Adelaide's GitHub Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxumalo&theme=highcontrast)
 
 
 <!--
@@ -39,14 +46,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anxumalo&theme=swift)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=anxumalo&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=anxumalo)](https://git.io/streak-stats)
+---
 [![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anxumalo&count_private=true&show_icons=true&layout=default&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anxumalo&layout=default&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
+![Most Commit Langs Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anxumalo&theme=highcontrast)
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxumalo&theme=highcontrast)
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxumalo&theme=highcontrast)
 ---
-![My Profile Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anxumalo&theme=highcontrast) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxumalo&theme=highcontrast) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anxumalo&theme=highcontrast)
+![Profile Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxumalo&theme=highcontrast)
+---
+[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anxumalo&count_private=true&show_icons=true&layout=default&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 -->
+  
+  <!-- HTML alternatives with resized images
+  <div>
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxumalo&hide=stars,issues&theme=highcontrast" alt="Adelaide's GitHub Profile Summary Card" /> 
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=anxumalo&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Adelaide's GitHub Stats" />
+     <br/>
+     <a href="https://git.io/streak-stats"><img height="200" align="center" src="https://streak-stats.demolab.com?user=anxumalo&theme=highcontrast" alt="Adelaide's GitHub Streak" />
+     <br/>
+     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anxumalo&theme=highcontrast" alt="Adelaide's GitHub Profile Details" />
+  </div>
+  -->
+  
