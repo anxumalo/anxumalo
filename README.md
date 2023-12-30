@@ -6,6 +6,7 @@
 - 💬 Ask me about technical writing, athletics, and cruises.
 - 😄 Pronouns: She/her/hers
 - ⚡ Fun fact: Have visited over 30 countries so far
+- 👀 [Adelaide's #GitHubUnwrapped video - 2023](https://githubunwrapped.com/anxumalo). Get your year in review at https://githubunwrapped.com/
 
 <details>
   <summary>📈 My GitHub Stats</summary>
