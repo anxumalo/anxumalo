@@ -8,6 +8,8 @@
 - ⚡ Fun fact: Have visited over 30 countries so far
 - 👀 [Adelaide's #GitHubUnwrapped video - 2023](https://githubunwrapped.com/anxumalo). Get your year in review at https://githubunwrapped.com/
 
+
+
 <details>
   <summary>📈 My GitHub Stats</summary>
 
@@ -47,6 +49,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+> [!NOTE]
+> This is an example of a **note**.
+
+> [!TIP]
+> This is an example of a **tip**.
+
+> [!WARNING]
+> This is an example of a **warning**.
+
+> [!CAUTION]
+> This is an example of a **caution**.
+
+> [!IMPORTANT]
+> This is an example of an **important note**.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=anxumalo&theme=swift)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=anxumalo&theme=highcontrast)](https://git.io/streak-stats)
