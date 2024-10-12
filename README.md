@@ -9,7 +9,6 @@
 - 👀 [Adelaide's #GitHubUnwrapped video - 2023](https://githubunwrapped.com/anxumalo). Get your year in review at https://githubunwrapped.com/
 
 
-
 <details>
   <summary>📈 My GitHub Stats</summary>
 
@@ -19,7 +18,8 @@
   <div>
     <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anxumalo&hide=stars,issues&theme=highcontrast" alt="Adelaide's GitHub Profile Summary Card" /> 
     <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=anxumalo&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast" alt="Adelaide's GitHub Stats" />
-     <br/>
+     <br/><br/>
+     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anxumalo&row=2&column=6&theme=flat&no-bg=true&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET" alt="Adelaide's GitHub Trophies" /> 
      <!--
       <a href="https://git.io/streak-stats"><img height="200" align="center" src="https://streak-stats.demolab.com?user=anxumalo&theme=highcontrast" alt="Adelaide's GitHub Streak" />
       -->
