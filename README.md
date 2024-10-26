@@ -4,9 +4,9 @@
 - 👯 I’m looking to collaborate on writing better docs.
 - 🌱 I’m learning more about Git & GitHub for beginners and GitHub Actions.
 - 💬 Ask me about technical writing, athletics, and cruises.
-- 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: Have visited over 30 countries so far
-- 👀 [Adelaide's #GitHubUnwrapped video - 2023](https://githubunwrapped.com/anxumalo). Get your year in review at https://githubunwrapped.com/
+- 😄 Pronouns: She/her/hers.
+- ⚡ Fun fact: Have visited over 30 countries .. so far.
+- 👀 [Adelaide's #GitHubUnwrapped video - 2023](https://githubunwrapped.com/anxumalo). Get your year in review at https://githubunwrapped.com/.
 
 
 <details>
