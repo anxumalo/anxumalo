@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-- 🔭 I’m currently working on documentation for Alfresco products. The latest content is no longer in GitHub but is published to the [Hyland Documentation Portal](https://support.hyland.com/p/alfresco){:target="_blank"}.
+- 🔭 I’m currently working on documentation for Alfresco products. The latest content is no longer in GitHub but is published to the [Hyland Documentation Portal](https://support.hyland.com/p/alfresco).
 - 👯 I’m looking to collaborate on writing better documentation.
 - 🌱 I’m learning more about Git & GitHub for beginners and GitHub Actions.
 - 💬 Ask me about technical writing, athletics, and cruises.
